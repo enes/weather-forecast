@@ -7,10 +7,11 @@ This application exposes a REST endpoint for retrieving weather forecasts based 
 - Technologies and Libraries
 - Assumptions
 - Installation
+- Test
 - Production
 - Possible improvements in this code
 - AI usage
-- Test
+
 
 ## Technologies and Libraries
 The program is built using the following technologies and libraries:
