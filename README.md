@@ -31,7 +31,7 @@ If an event starts more than 7 days from now, we should not receive any requests
 To install this application, follow these steps:
 
 1. Clone this repository to your local machine.
-2. In order to install the required dependencies and run to tests by running `mvn clean install` -> run tests and build application artifact.
+2. In order to install the required dependencies and run to tests by running `mvn clean install` -> run tests and build application artifact. Note that you need to have JDK 25 installed on your local machine.
 3. Start the server by running `docker-compose build --no-cache && docker-compose up` -> run application
 
 ## Test
